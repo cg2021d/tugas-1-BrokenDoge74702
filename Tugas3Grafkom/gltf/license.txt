@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooden Sofa
+* source:	https://sketchfab.com/3d-models/wooden-sofa-9d63c14be96d417090b0f8793534be22
+* author:	sharifakram (https://sketchfab.com/sharifakram)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooden Sofa" (https://sketchfab.com/3d-models/wooden-sofa-9d63c14be96d417090b0f8793534be22) by sharifakram (https://sketchfab.com/sharifakram) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
